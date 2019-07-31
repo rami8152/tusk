@@ -4,5 +4,7 @@ this is kheer
 pasta
 beans
 pizza
+beans
+pizza
 chicken fry
 thank you :)
